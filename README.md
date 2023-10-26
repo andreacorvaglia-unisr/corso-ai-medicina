@@ -7,6 +7,9 @@ Welcome to the AI in Medicine course repository! This repository contains resour
 - **data**: This folder contains the datasets used in the practical exercises.
   
 - **Lab3_models.ipynb**: This Jupyter notebook covers the third lab session, focusing on models in AI for medicine.
+<a target="_blank" href="https://colab.research.google.com/github/andreacorvaglia-unisr/corso-ai-medicina/blob/main/Lab3_models.ipynb">
+  <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
+</a>
 
 ## Getting Started
 
