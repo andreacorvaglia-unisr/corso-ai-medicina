@@ -47,6 +47,9 @@ For a seamless experience and to save your changes, click on the "Copy to Drive"
 
 - Locating the Play Button: Look for a "play button" icon near the top-left corner of each code cell. This button is what you'll use to run the code within that specific cell.
 
+Execution of the cell is considered concluded/completed when the green checkmark appears next to it.
+
+
 ![image](https://github.com/andreacorvaglia-unisr/corso-ai-medicina/assets/149048468/c0be258c-1981-47cc-a77f-3180327f3822)
 
 
