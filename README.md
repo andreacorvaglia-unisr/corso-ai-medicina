@@ -25,7 +25,8 @@ If you are not already signed in to a Google account, you will be prompted to si
 
 For a seamless experience and to save your changes, click on the "Copy to Drive" option in the Colab toolbar. This will create a copy of the notebook in your Google Drive.
 
-<img width="1000" alt="image" src="https://github.com/andreacorvaglia-unisr/corso-ai-medicina/assets/149048468/0313df0d-efd8-4eb2-a5a1-14b0af8932cb">
+![image](https://github.com/andreacorvaglia-unisr/corso-ai-medicina/assets/149048468/b119fb21-2b5f-4db2-9f0c-4c4728db4e47)
+
 
 
 **Step 4**: Run the Notebook Cells
