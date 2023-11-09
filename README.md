@@ -12,6 +12,7 @@ Welcome to the AI in Medicine course repository! This repository contains resour
 ## Getting Started
 
 Follow these steps to run the notebook in Google Colab:
+
 **Step 1**: Open the Notebook in Colab
 
 Click on the "Open In Colab" badge next to the heart_disease.ipynb file in the README. This will open the notebook in Google Colab.
