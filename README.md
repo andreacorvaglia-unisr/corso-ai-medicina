@@ -37,6 +37,9 @@ For a seamless experience and to save your changes, click on the "Copy to Drive"
 
 - Locating the Play Button: Look for a "play button" icon near the top-left corner of each code cell. This button is what you'll use to run the code within that specific cell.
 
+  <img width="934" alt="image" src="https://github.com/andreacorvaglia-unisr/corso-ai-medicina/assets/149048468/73b5aacd-30bd-4493-bffc-fe1f424b0dd5">
+
+
 **Step 5(Optional)**: Save Your Changes (if running on a copy)
 
 If you made changes and are running a copy in your Google Drive, make sure to save the notebook. You can do this by clicking on "File" in the Colab toolbar and selecting "Save a copy in Drive" or "Save" if it's an existing copy.
