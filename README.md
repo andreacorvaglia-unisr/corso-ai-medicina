@@ -37,7 +37,8 @@ For a seamless experience and to save your changes, click on the "Copy to Drive"
 
 - Locating the Play Button: Look for a "play button" icon near the top-left corner of each code cell. This button is what you'll use to run the code within that specific cell.
 
-  <img width="934" alt="image" src="https://github.com/andreacorvaglia-unisr/corso-ai-medicina/assets/149048468/73b5aacd-30bd-4493-bffc-fe1f424b0dd5">
+![image](https://github.com/andreacorvaglia-unisr/corso-ai-medicina/assets/149048468/c0be258c-1981-47cc-a77f-3180327f3822)
+
 
 
 **Step 5(Optional)**: Save Your Changes (if running on a copy)
