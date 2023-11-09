@@ -21,6 +21,16 @@ Click on the "Open In Colab" badge next to the heart_disease.ipynb file in the R
 
 If you are not already signed in to a Google account, you will be prompted to sign in or create a Google account.
 
+If you need to create an account:
+
+    1. Click on "Create Account" when prompted to sign in to Google.
+
+    2. Choose "For Myself" and follow the steps to create a new account.
+
+    3. Use your UniSR email for account creation.
+
+    4. Important: Select the option to keep your existing email. This ensures that your UniSR email is your primary email associated with the Google account.
+
 **Step 3 (Optional)**: Copy the Notebook to Your Google Drive (Optional)
 
 For a seamless experience and to save your changes, click on the "Copy to Drive" option in the Colab toolbar. This will create a copy of the notebook in your Google Drive.
